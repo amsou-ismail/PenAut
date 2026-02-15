@@ -15,7 +15,7 @@ A powerful all-in-one Penetration testing Automation toolkit written in Python. 
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/amsou-ismail/PenAut.git
+git clone https://github.com/3SS1L4/PenAut.git
 cd PenAut
 ```
 
@@ -39,7 +39,7 @@ sudo PenAut
 ### 👥 Contributors
 
 - [AMAR SAAD](https://github.com/CR0M80)
-- [AMSOU ISMAIL](https://github.com/amsou-ismail)
+- [AMSOU ISMAIL](https://github.com/3SS1L4)
 - [BENNANI YAHYA](https://github.com/YahyaBennani)
 - [LAAMIRI SAYF-EDDINE](https://github.com/laamri)
 - [AOURIK ANAS](https://github.com/AOU-sudo)
